@@ -1,0 +1,5 @@
+{
+  "name": "高岛易断 - 略筮法",
+  "description": "基于高岛嘉右卫门（Takashima Kaemon）“略筮法”的交互式占卜工具。模拟49根筮竹的分策仪式，通过三变求出本卦与唯一的动爻，提供决断指引。",
+  "requestFramePermissions": []
+}
